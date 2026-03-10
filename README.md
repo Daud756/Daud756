@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Daud! 👋
 
-<!--
-**Daud756/Daud756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 I'm a University Student based in Pakistan.
+- 💻 Deeply interested in Web Development (HTML, CSS, JavaScript).
+- 🛡️ Exploring Cybersecurity and Cryptography.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
+- **Programming:** C++, OOP, DSA
+- **Tools:** GitHub, VS Code, Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Projects
+- [Cryptography Simulation Tool](https://daud756.github.io/MD_terminal/) - A professional tool for encryption methods.
+
+### 📫 How to reach me
+- LinkedIn: [Apna LinkedIn Link Daalein]
+-
